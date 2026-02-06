@@ -89,6 +89,7 @@ developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=flat-square&logoColor=white)
 
 ### **Robotics**
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
@@ -210,10 +211,148 @@ developer = {
 
 ---
 
+## 💼 Professional Experience
+
+### 🚀 **SPORTSCORE** - R&D Engineer in Computer Vision & AI
+**📍 Paris, France (Remote) | 📅 April 2025 - October 2025**
+
+```yaml
+Project: Automated Futsal Video Analysis Pipeline
+Technologies: PyTorch, YOLOv8/11, DeepSORT, TensorRT, CUDA Streams, OpenCV, OCR
+
+Key Achievements:
+  - 🎯 Built frame classification module (99.95% accuracy)
+  - ⚡ Reduced inference time by 50% using CUDA parallelization
+  - 🚀 Achieved 13 FPS processing speed (+117% improvement)
+  - 🏃 Implemented complex action detection (passes, shots, dribbles, goals)
+  - 👥 Supervised and trained 4 interns
+  - 📊 Delivered automated performance reports (heatmaps, pass maps, JSON exports)
+
+Optimizations:
+  - Multi-stream processing (5 CUDA streams)
+  - TensorRT FP16 optimization (7 models)
+  - Asynchronous I/O operations
+  - ONNX model conversion for cross-platform deployment
+```
+
+### 🔬 **Ibn Tofail University - LABORATOIRE SETIME**
+**📍 Kenitra, Morocco | 📅 October 2024 - January 2025**
+
+```yaml
+Project: End-to-End Event Spotting in Videos
+Technologies: PyTorch, RegNet-Y, ResNet-50, Bi-GRU, OpenCV, RTX 4060
+
+Achievements:
+  - 🎬 Developed full pipeline (extraction, annotation, normalization)
+  - 🧠 Implemented RegNet-Y with Gate Shift Modules (GSM)
+  - 📈 Achieved 0.93 recall on DRIVE class
+  - 🏆 RegNet-Y outperformed ResNet-50
+  - 📦 Processed 40GB dataset (7 Futsal World Cup 2024 matches)
+```
+
+### 🌐 **Orange Business** - CDN Security Engineering
+**📍 Sale Al Jadida, Morocco | 📅 September 2023 - November 2023**
+
+```yaml
+Project: Content Delivery Network Security Enhancement
+Technologies: Shell Scripting, JWT, CORS, Security Protocols
+
+Achievements:
+  - 🔐 Developed secure URL generation with token authentication
+  - 🛡️ Enhanced security (CORS, XSS, CSRF protection)
+  - 🔧 Resolved critical URL formatting issues
+```
+
+---
+
+## 🎓 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚽ Futsal Video Analytics</h3>
+      <br/>
+      <p align="center">
+        <a href="https://mehdihch.github.io/Portfolio/">
+          <img src="https://img.shields.io/badge/View-Demo-blue?style=for-the-badge" alt="Demo"/>
+        </a>
+      </p>
+      <p>
+        <strong>🎯 Automated player tracking & action detection</strong><br/>
+        • Multi-player tracking with DeepSORT<br/>
+        • Real-time pose estimation<br/>
+        • Complex action classification<br/>
+        • 13 FPS processing (50% faster)<br/>
+        <br/>
+        <code>YOLOv11</code> <code>TensorRT</code> <code>CUDA</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Autonomous Car (RL)</h3>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/MehdiHCH">
+          <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge" alt="Code"/>
+        </a>
+      </p>
+      <p>
+        <strong>🚗 Self-driving with Deep RL</strong><br/>
+        • ROS2-Gazebo simulation pipeline<br/>
+        • TD3 reinforcement learning agent<br/>
+        • Camera & LiDAR sensor fusion<br/>
+        • Real-time obstacle avoidance<br/>
+        <br/>
+        <code>ROS2</code> <code>TD3</code> <code>PyTorch</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📜 Tifinagh OCR System</h3>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/MehdiHCH">
+          <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge" alt="Code"/>
+        </a>
+      </p>
+      <p>
+        <strong>🏛️ Cultural heritage preservation</strong><br/>
+        • Hybrid CRNN-based OCR model<br/>
+        • Handwritten Amazigh script recognition<br/>
+        • PaddleOCR integration<br/>
+        • High accuracy character detection<br/>
+        <br/>
+        <code>CRNN</code> <code>PaddleOCR</code> <code>OpenCV</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ Diabetic Retinopathy Detection</h3>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/MehdiHCH">
+          <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge" alt="Code"/>
+        </a>
+      </p>
+      <p>
+        <strong>🏥 Early disease diagnosis with AI</strong><br/>
+        • EfficientNetB0 classification<br/>
+        • APTOS 2019 dataset preprocessing<br/>
+        • Data augmentation pipeline<br/>
+        • Medical imaging optimization<br/>
+        <br/>
+        <code>EfficientNet</code> <code>TensorFlow</code> <code>Keras</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📈 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehdiHCH&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehdiHCH&theme=react-dark&hide_border=true&area=true" width="90%"/>
@@ -245,11 +384,19 @@ ideal_role:
   
   type: ["Full-time", "Contract", "Remote", "Hybrid"]
   
-  interests:
-    - Working with cutting-edge AI technologies
-    - Building scalable ML infrastructure
-    - Solving challenging real-world problems
-    - Contributing to innovative products
+  company_culture:
+    - Innovation-driven with cutting-edge AI/CV technologies
+    - Strong emphasis on learning and professional growth
+    - Collaborative team environment with mentorship opportunities
+    - Meaningful real-world impact and user-centric products
+    - Research-to-production pipeline mindset
+  
+  what_i_bring:
+    - Production-ready CV expertise (50%+ optimization results)
+    - End-to-end ML ownership (research → deployment)
+    - Fast learning with Master's in AI + hands-on experience
+    - Team leadership (supervised 4 interns while delivering)
+    - Problem-solving for complex challenges
 ```
 
 ---
