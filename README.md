@@ -7,7 +7,7 @@ AI/ML Engineer | Computer Vision & Generative AI Specialist | Building Intellige
 </h3>
 
 <p align="center">
-  <a href="https://mehdihch.github.io/Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-ff5722?style=for-the-badge" alt="Portfolio"/></a>
+  <a href="https://mehdihch.github.io/PortfolioMCH/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-ff5722?style=for-the-badge" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/elmehdihicham/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mehdihicham736@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=MehdiHCH&style=for-the-badge&color=blue" alt="Profile views"/>
